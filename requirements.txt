@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+aiofiles
 pydantic
 python-multipart
 pandas
