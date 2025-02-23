@@ -31,7 +31,7 @@ This is an **asynchronous image processing API** built using **FastAPI, Celery, 
 ### **1️⃣ Clone Repository**
 ```sh
 https://github.com/kashishsinghyadav/ImageProcessingSystem
-cd image-processing-system
+cd ImageProcessingSystem
 ```
 
 ### **2️⃣ Install Dependencies**
