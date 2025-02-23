@@ -3,13 +3,9 @@ uvicorn
 aiofiles
 pydantic
 python-multipart
-pandas
 celery
 redis
-asyncpg
-sqlalchemy
-alembic
-boto3
-python-dotenv
+pillow
 requests
-
+sqlalchemy
+databases
